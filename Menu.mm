@@ -1,4 +1,3 @@
-#include <JRMemory/MemScan.h>
 #import <Foundation/Foundation.h>
 #import "Menu.h"
 
