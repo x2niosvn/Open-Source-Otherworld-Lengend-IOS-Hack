@@ -1,5 +1,4 @@
 #import "Macros.h"
-#include <JRMemory/MemScan.h>
 #import <Foundation/Foundation.h>
 #include <iostream>
 #include <string>
